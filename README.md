@@ -1,3 +1,5 @@
+<img src="spoken_dict_th.svg" alt="spoken_dict_th" width="120">
+
 # spoken_dict_th
 Spoken dictionary Thai words
 # Open Spoken Dictionary (OSD) - 40,000+ MP3 Audio Files
